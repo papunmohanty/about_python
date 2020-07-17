@@ -29,6 +29,7 @@ If you learn Python, you can
 * create GUI(Graphical User Interface) applications
 * perform Data Science work
 * achieve Artificial Intellegence(AI) through Machine Learning 
+* control your cloud infrastructure and perform cloud computing tasks
   
 There are more possibilities and oppertunities will opens up for you if you know Python.
 
