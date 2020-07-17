@@ -38,3 +38,10 @@ There are more possibilities and oppertunities will opens up for you if you know
 The onle requirement to learn Python is "English".
 And you should be willing to dedicate yourself to go deep inside this language.
 The more you learn and practice, the more opportunities you attract.
+
+
+## Want to see how simple Python code looks like
+A code snippet to print a simple sentence 
+```python
+print("This is a simple sentence in Python")
+```
