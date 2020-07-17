@@ -8,7 +8,7 @@ Its a Snake!! of course..
 But what if you change the context to a geek.
 Its' a Programming language, Scripting language however you may interpret, it depends on how much you know about Python and how you use it.
 
-Here is the actual Python's logo look likes
+Here is the actual Python's logo looks like
 
 <a href="https://live.staticflickr.com/3763/13541540425_63372041e1_z.jpg 
 " target="_blank"><img src="https://live.staticflickr.com/3763/13541540425_63372041e1_z.jpg" 
