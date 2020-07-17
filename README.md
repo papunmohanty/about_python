@@ -21,13 +21,13 @@ If you learn more about any language, the more possibilities for you will open t
 do many things.
 
 If you learn Python, you can
-* Do your tedious and repetative Maths homework, which involves
+* do your tedious and repetative Maths homework, which involves
   complex calculations
-* Create a game
-* Build your own website like Tweeter, Facebook, Instagram and many more
-* Control electronics sensors and build home automation gadgets 
-* Create Internet of Things(IOT) applications
-* Create GUI(Graphical User Interface) applications
+* create a game
+* build your own website like Tweeter, Facebook, Instagram and many more
+* control electronics sensors and build home automation gadgets 
+* create Internet of Things(IOT) applications
+* create GUI(Graphical User Interface) applications
 * perform Data Science work
 * achieve Artificial Intellegence(AI) through Machine Learning 
   
