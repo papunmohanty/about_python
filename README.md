@@ -26,12 +26,12 @@ If you learn Python, you can
 * Create a game
 * Build your own website like Tweeter, Facebook, Instagram and many more
 * Control electronics sensors and build home automation gadgets 
-* Create Internet of Things(IOT) application
+* Create Internet of Things(IOT) applications
 * Create GUI(Graphical User Interface) applications
 * perform Data Science work
 * achieve Artificial Intellegence(AI) through Machine Learning 
   
-There are more possibilities and oppertunities will opens up if you know Python.
+There are more possibilities and oppertunities will opens up for you if you know Python.
 
 
 ## You may think, what is the prerequisite for you to become Python developer?
