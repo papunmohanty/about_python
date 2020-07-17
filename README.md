@@ -21,8 +21,8 @@ If you learn more about any language, the more possibilities for you will open t
 do many things.
 
 If you learn Python, you can
-* Do your tedious and repetative Maths homework, which involves of 
-  complex alculations
+* Do your tedious and repetative Maths homework, which involves
+  complex calculations
 * Create a game
 * Build your own website like Tweeter, Facebook, Instagram and many more
 * Control electronics sensors and build home automation gadgets 
