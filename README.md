@@ -14,7 +14,6 @@ Here is the actual Python's logo looks like
 " target="_blank"><img src="https://live.staticflickr.com/3763/13541540425_63372041e1_z.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="220" /></a>
 
-https://live.staticflickr.com/3763/13541540425_63372041e1_z.jpg 
 
 ## What can you do with Python ?
 Well, anything you want. Your imagination is you limit.
