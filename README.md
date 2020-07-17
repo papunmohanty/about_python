@@ -6,7 +6,7 @@ Its a Snake!! of course..
 ![python the snake!](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQawOpWPpTBZcJp2ST4Aem9ogSdlPlEgI9Awg&usqp=CAU "Python the Snake!")
 
 But what if you change the context to a geek.
-Its' a Programming language, Scripting language however you may interpret, it depends on how much you know about Python and how you use it.
+Its' a Programming language, Scripting language however you may interpret. It depends on how much you know about Python and how you use it.
 
 Here is the actual Python's logo looks like
 
