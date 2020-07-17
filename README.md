@@ -37,4 +37,4 @@ There are more possibilities and oppertunities will opens up for you if you know
 ## You may think, what is the prerequisite for you to become Python developer?
 The onle requirement to learn Python is "English".
 And you should be willing to dedicate yourself to go deep inside this language.
-The more you learn and practice, the more oppertunities you attract.
+The more you learn and practice, the more opportunities you attract.
