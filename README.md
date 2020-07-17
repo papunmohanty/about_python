@@ -45,3 +45,5 @@ A code snippet to print a simple sentence
 ```python
 print("This is a simple sentence in Python")
 ```
+
+[Type your Python code here ](https://repl.it/languages/python3)
