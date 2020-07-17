@@ -17,8 +17,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="220" /></a>
 
 ## What can you do with Python ?
 Well, anything you want. Your imagination is your limit.
-If you learn more about any language, the more possibilities for you will open to 
-do many things.
+If you learn more about any language, the more possibilities for you will open up to do many things.
 
 If you learn Python, you can
 * do your tedious and repetative Maths homework, which involves
