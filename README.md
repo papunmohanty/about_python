@@ -48,4 +48,4 @@ print("This is a simple sentence in Python")
 
 [Type your Python code here ](https://repl.it/languages/python3)
 
-[or Install Python in your system](https://www.python.org/downloads/)
+[or download and install Python in your system](https://www.python.org/downloads/)
