@@ -1,6 +1,6 @@
 # About Python
 
-What do you think if you heard about Python?
+What do you think if you hear about Python?
 Its a Snake!! of course..
 
 ![python the snake!](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQawOpWPpTBZcJp2ST4Aem9ogSdlPlEgI9Awg&usqp=CAU "Python the Snake!")
